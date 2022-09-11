@@ -1,6 +1,6 @@
 {
   "name": "components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "torionchen <971561770@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "node ./__tests__/components.test.js"
   },
   "dependencies": {
-    "brother-study-cli": "^1.1.0",
+    "brother-study-cli": "^1.1.1",
     "eslint-plugin-prettier": "^4.2.1",
     "prettier": "^2.7.1"
   }
