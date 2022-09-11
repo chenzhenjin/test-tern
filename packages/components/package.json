@@ -23,5 +23,6 @@
     "brother-study-cli": "^1.1.1",
     "eslint-plugin-prettier": "^4.2.1",
     "prettier": "^2.7.1"
-  }
+  },
+  "gitHead": "5bb03b4d11de2a5f07332f9ca5463afa46409b6a"
 }

@@ -29,5 +29,6 @@
     "shelljs": "^0.8.4",
     "tracer": "^1.1.4",
     "update-notifier": "^5.0.1"
-  }
+  },
+  "gitHead": "5bb03b4d11de2a5f07332f9ca5463afa46409b6a"
 }
