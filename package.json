@@ -1,0 +1,11 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^5.5.1"
+  },
+  "hoist": true,
+  "dependencies": {
+    "eslint": "^8.23.0"
+  }
+}
